@@ -1,5 +1,7 @@
 # 📄 AI PDF Chatbot
 
+live demo - https://aipdfchatbot-kzizlgkqhkcnmnj9bfgsfd.streamlit.app/
+
 > **Built an AI-powered PDF Question Answering system using LangChain, ChromaDB, and Streamlit — implementing Retrieval Augmented Generation (RAG).**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
