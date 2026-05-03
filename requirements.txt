@@ -8,3 +8,6 @@ chromadb>=0.4.22
 pypdf>=4.0.0
 python-dotenv>=1.0.0
 tiktoken>=0.6.0
+sentence-transformers
+transformers
+torch
